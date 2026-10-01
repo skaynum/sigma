@@ -172,6 +172,7 @@ https://attackerkb.com/topics/2faW2CxJgQ/cve-2023-4966
 https://attackerkb.com/topics/Bkij5kK1qK/cve-2022-21587/rapid7-analysis
 https://attackerkb.com/topics/SSTk336Tmf/cve-2024-3400/rapid7-analysis
 https://awakesecurity.com/blog/threat-hunting-for-paexec/
+https://awscli.amazonaws.com/v2/documentation/api/2.14.0/reference/account/enable-region.html
 https://bad-jubies.github.io/RCE-NOW-WHAT/
 https://badoption.eu/blog/2023/01/31/code_c2.html
 https://bazaar.abuse.ch/browse/signature/RaspberryRobin/
@@ -410,6 +411,7 @@ https://devco.re/blog/2024/08/23/streaming-vulnerabilities-from-windows-kernel-p
 https://developer.apple.com/library/archive/documentation/MacOSX/Conceptual/BPSystemStartup/Chapters/StartupItems.html
 https://developer.broadcom.com/xapis/esxcli-command-reference/7.0.0/namespace/esxcli_network.html
 https://developer.broadcom.com/xapis/esxcli-command-reference/7.0.0/namespace/esxcli_storage.html
+https://developer.broadcom.com/xapis/esxcli-command-reference/7.0.0/namespace/esxcli_system.html
 https://developer.broadcom.com/xapis/esxcli-command-reference/7.0.0/namespace/esxcli_vsan.html
 https://developer.okta.com/docs/reference/api/event-types/
 https://developer.okta.com/docs/reference/api/system-log/
@@ -682,6 +684,7 @@ https://docs.microsoft.com/fr-fr/windows-server/administration/windows-commands/
 https://docs.microsoft.com/pt-br/windows/win32/secauthz/sid-strings
 https://docs.nginx.com/nginx/admin-guide/monitoring/debugging/#enabling-core-dumps
 https://docs.paloaltonetworks.com/cortex/cortex-xdr/cortex-xdr-analytics-alert-reference/cortex-xdr-analytics-alert-reference/scrcons-exe-rare-child-process.html
+https://docs.prismacloud.io/en/enterprise-edition/policy-reference/aws-policies/aws-general-policies/ensure-aws-guardduty-detector-is-enabled
 https://docs.python.org/3/library/site.html
 https://docs.python.org/3/using/cmdline.html#cmdoption-c
 https://docs.spring.io/spring-security/site/docs/current/api/overview-tree.html
@@ -788,6 +791,7 @@ https://github.com/0xdeadbeefJERKY/PowerSploit/blob/8690399ef70d2cad10213575ac67
 https://github.com/0xf4n9x/CVE-2022-46169
 https://github.com/0xorOne/nuclei-templates/blob/2fef4270ec6e5573d0a1732cb18bcfc4b1580a88/http/cves/2023/CVE-2023-46747.yaml
 https://github.com/0xsyr0/Awesome-Cybersecurity-Handbooks/blob/7b8935fe4c82cb64d61343de1a8b2e38dd968534/handbooks/10_post_exploitation.md
+https://github.com/0xthirteen/SharpMove/
 https://github.com/1337Rin/Swag-PSO
 https://github.com/1N3/Sn1per
 https://github.com/3CORESec/MAL-CL/tree/master/Descriptors/Other/Advanced%20IP%20Scanner
@@ -1263,6 +1267,7 @@ https://github.com/redcanaryco/atomic-red-team/blob/40b77d63808dd4f4eafb83949805
 https://github.com/redcanaryco/atomic-red-team/blob/40b77d63808dd4f4eafb83949805636735a1fd15/atomics/T1562.001/T1562.001.md
 https://github.com/redcanaryco/atomic-red-team/blob/40b77d63808dd4f4eafb83949805636735a1fd15/atomics/T1562.004/T1562.004.md
 https://github.com/redcanaryco/atomic-red-team/blob/40b77d63808dd4f4eafb83949805636735a1fd15/atomics/T1564.002/T1564.002.md
+https://github.com/redcanaryco/atomic-red-team/blob/40b77d63808dd4f4eafb83949805636735a1fd15/atomics/T1564.002/T1564.002.md#atomic-test-3---create-hidden-user-in-registry
 https://github.com/redcanaryco/atomic-red-team/blob/4ae9580a1a8772db87a1b6cdb0d03e5af231e966/atomics/T1137.006/T1137.006.md
 https://github.com/redcanaryco/atomic-red-team/blob/4d6c4e8e23d465af7a2388620cfe3f8c76e16cf0/atomics/T1082/T1082.md
 https://github.com/redcanaryco/atomic-red-team/blob/5360c9d9ffa3b25f6495f7a16e267b719eba2c37/atomics/T1482/T1482.md#atomic-test-2---windows---discover-domain-trusts-with-nltest
@@ -1696,6 +1701,7 @@ https://global.ptsecurity.com/analytics/pt-esc-threat-intelligence/darkhotel-a-c
 https://go.recordedfuture.com/hubfs/reports/mtp-2021-0914.pdf
 https://goo.gl/PsqrhT
 https://googleprojectzero.blogspot.com/2019/08/implant-teardown.html
+https://googleprojectzero.blogspot.com/2021/10/using-kerberos-for-authentication-relay.html
 https://grafana.com/blog/2021/12/07/grafana-8.3.1-8.2.7-8.1.8-and-8.0.7-released-with-high-severity-security-fix/
 https://grep.app/search?q=winpwn&filter[repo][0]=redcanaryco/atomic-red-team
 https://grzegorztworek.medium.com/using-uefi-to-inject-executable-files-into-bitlocker-protected-drives-8ff4ca59c94c
@@ -1973,6 +1979,7 @@ https://learn.microsoft.com/en-us/powershell/module/microsoft.powershell.managem
 https://learn.microsoft.com/en-us/powershell/module/microsoft.powershell.management/set-service?view=powershell-7.2
 https://learn.microsoft.com/en-us/powershell/module/microsoft.powershell.management/stop-service?view=powershell-7.4
 https://learn.microsoft.com/en-us/powershell/module/microsoft.powershell.security/convertto-securestring?view=powershell-7.3#examples
+https://learn.microsoft.com/en-us/powershell/module/microsoft.powershell.security/get-acl?view=powershell-7.4
 https://learn.microsoft.com/en-us/powershell/module/microsoft.powershell.security/set-acl?view=powershell-5.1
 https://learn.microsoft.com/en-us/powershell/module/microsoft.powershell.security/set-executionpolicy?view=powershell-7.3
 https://learn.microsoft.com/en-us/powershell/module/microsoft.powershell.security/set-executionpolicy?view=powershell-7.4
@@ -2087,6 +2094,7 @@ https://learn.microsoft.com/en-us/windows/client-management/manage-recall
 https://learn.microsoft.com/en-us/windows/msix/package/unsigned-package
 https://learn.microsoft.com/en-us/windows/package-manager/winget/source
 https://learn.microsoft.com/en-us/windows/security/application-security/application-control/app-control-for-business/deployment/appcontrol-deployment-guide
+https://learn.microsoft.com/en-us/windows/security/application-security/application-control/app-control-for-business/deployment/deploy-appcontrol-policies-using-group-policy
 https://learn.microsoft.com/en-us/windows/security/application-security/application-control/app-control-for-business/deployment/deploy-appcontrol-policies-with-script
 https://learn.microsoft.com/en-us/windows/security/application-security/application-control/windows-defender-application-control/applocker/using-event-viewer-with-applocker
 https://learn.microsoft.com/en-us/windows/security/application-security/application-control/windows-defender-application-control/design/applications-that-can-bypass-wdac
@@ -2117,6 +2125,7 @@ https://learn.microsoft.com/en-us/windows/win32/api/shobjidl_core/nn-shobjidl_co
 https://learn.microsoft.com/en-us/windows/win32/api/wincred/nf-wincred-creduipromptforcredentialsa
 https://learn.microsoft.com/en-us/windows/win32/api/winevt/
 https://learn.microsoft.com/en-us/windows/win32/appxpkg/troubleshooting
+https://learn.microsoft.com/en-us/windows/win32/cimwin32prov/delete-method-in-class-win32-service
 https://learn.microsoft.com/en-us/windows/win32/eventlog/eventlog-key
 https://learn.microsoft.com/en-us/windows/win32/intl/code-page-identifiers
 https://learn.microsoft.com/en-us/windows/win32/msi/event-logging
@@ -3372,6 +3381,7 @@ https://web.archive.org/web/20200302083912/https://www.accenture.com/t20180127T0
 https://web.archive.org/web/20200329173843/https://p16.praetorian.com/blog/how-to-use-kerberoasting-t1208-for-privilege-escalation
 https://web.archive.org/web/20200419024230/https://blog.dylan.codes/evading-sysmon-and-windows-event-logging/
 https://web.archive.org/web/20200530031708/https://www.embercybersecurity.com/blog/cve-2019-1378-exploiting-an-access-control-privilege-escalation-vulnerability-in-windows-10-update-assistant-wua
+https://web.archive.org/web/20200601000524/https://cyberx-labs.com/blog/gangnam-industrial-style-apt-campaign-targets-korean-industrial-companies/
 https://web.archive.org/web/20200618080300/https://www.verfassungsschutz.de/embed/broschuere-2020-06-bfv-cyber-brief-2020-01.pdf
 https://web.archive.org/web/20200903194959/https://twitter.com/djmtshepana/status/1301608169496612866
 https://web.archive.org/web/20200925032237/https://threathunterplaybook.com/notebooks/windows/02_execution/WIN-190410151110.html
@@ -3485,6 +3495,7 @@ https://www.cisa.gov/news-events/cybersecurity-advisories/aa23-320a
 https://www.cisa.gov/news-events/cybersecurity-advisories/aa23-347a
 https://www.cisa.gov/news-events/cybersecurity-advisories/aa24-241a
 https://www.cisa.gov/sites/default/files/2024-04/aa24-109a-stopransomware-akira-ransomware_2.pdf
+https://www.cisa.gov/stopransomware/ransomware-guide
 https://www.cisa.gov/uscert/ncas/alerts/aa20-259a
 https://www.cisa.gov/uscert/ncas/alerts/aa22-321a
 https://www.cisa.gov/uscert/sites/default/files/publications/aa22-320a_joint_csa_iranian_government-sponsored_apt_actors_compromise_federal%20network_deploy_crypto%20miner_credential_harvester.pdf
@@ -3636,7 +3647,9 @@ https://www.gorillastack.com/blog/real-time-events/important-aws-cloudtrail-secu
 https://www.gov.pl/attachment/ee91f24d-3e67-436d-aa50-7fa56acf789d
 https://www.gpg4win.de/documentation.html
 https://www.gradenegger.eu/en/details-of-the-event-with-id-53-of-the-source-microsoft-windows-certificationauthority/
+https://www.greynoise.io/blog/new-scraper-botnet-concentrated-in-taiwan
 https://www.group-ib.com/blog/hunting-for-ttps-with-prefetch-files/
+https://www.group-ib.com/resources/threat-research/silence_2.0.going_global.pdf
 https://www.gteltsc.vn/blog/canh-bao-chien-dich-tan-cong-su-dung-lo-hong-zero-day-tren-microsoft-exchange-server-12714.html
 https://www.guidepointsecurity.com/blog/tunnel-vision-cloudflared-abused-in-the-wild/
 https://www.guidepointsecurity.com/supernova-solarwinds-net-webshell-analysis/
@@ -3653,7 +3666,9 @@ https://www.huntress.com/blog/a-catastrophe-for-control-understanding-the-screen
 https://www.huntress.com/blog/attacking-mssql-servers
 https://www.huntress.com/blog/confluence-to-cerber-exploitation-of-cve-2023-22518-for-ransomware-deployment
 https://www.huntress.com/blog/critical-vulnerabilities-in-papercut-print-management-software
+https://www.huntress.com/blog/gootloader-threat-detection-woff2-obfuscation
 https://www.huntress.com/blog/moveit-transfer-critical-vulnerability-rapid-response
+https://www.huntress.com/blog/silencing-the-edr-silencers
 https://www.huntress.com/blog/slashandgrab-screen-connect-post-exploitation-in-the-wild-cve-2024-1709-cve-2024-1708
 https://www.huntress.com/blog/threat-advisory-oh-no-cleo-cleo-software-actively-being-exploited-in-the-wild
 https://www.hvs-consulting.de/lazarus-report/
@@ -3968,6 +3983,7 @@ https://www.tenforums.com/tutorials/123792-turn-off-tamper-protection-microsoft-
 https://www.tenforums.com/tutorials/151318-how-enable-disable-dns-over-https-doh-microsoft-edge.html
 https://www.tenforums.com/tutorials/32236-enable-disable-microsoft-defender-pua-protection-windows-10-a.html
 https://www.thestack.technology/security-experts-call-for-incident-response-exercises-after-mass-cisco-device-exploitation/
+https://www.threatdown.com/blog/clipboard-hijacker-tries-to-install-a-trojan/
 https://www.trellix.com/en-sg/about/newsroom/stories/threat-labs/lockergoga-ransomware-family-used-in-targeted-attacks.html
 https://www.trellix.com/en-us/about/newsroom/stories/research/beyond-file-search-a-novel-method.html
 https://www.trendmicro.com/content/dam/trendmicro/global/en/research/22/h/ransomware-actor-abuses-genshin-impact-anti-cheat-driver-to-kill-antivirus/Genshin%20Impact%20Figure%2010.jpg
