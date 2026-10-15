@@ -584,6 +584,7 @@ https://docs.microsoft.com/en-us/powershell/module/netsecurity/set-netfirewallpr
 https://docs.microsoft.com/en-us/powershell/module/nettcpip/test-netconnection?view=windowsserver2022-ps
 https://docs.microsoft.com/en-us/powershell/module/pki/export-pfxcertificate
 https://docs.microsoft.com/en-us/powershell/module/pki/import-certificate?view=windowsserver2022-ps
+https://docs.microsoft.com/en-us/powershell/module/powershellwebaccess/install-pswawebapplication
 https://docs.microsoft.com/en-us/powershell/module/storage/get-storagediagnosticinfo
 https://docs.microsoft.com/en-us/powershell/module/storage/mount-diskimage?view=windowsserver2022-ps
 https://docs.microsoft.com/en-us/previous-versions/windows/desktop/ms766431(v=vs.85)
@@ -961,6 +962,7 @@ https://github.com/EmpireProject/Empire/blob/e37fb2eef8ff8f5a0a689f1589f424906fe
 https://github.com/EmpireProject/Empire/blob/e37fb2eef8ff8f5a0a689f1589f424906fe13055/lib/modules/powershell/persistence/powerbreach/resolver.py#L178
 https://github.com/EmpireProject/PSInject
 https://github.com/eset/malware-ioc/tree/master/oceanlotus
+https://github.com/EvotecIT/TheDashboard/blob/481a9ce8f82f2fd55fe65220ee6486bae6df0c9d/Examples/RunReports/PingCastle.ps1
 https://github.com/FalconForceTeam/FalconFriday/blob/a9219dfcfd89836f34660223f47d766982bdce46/Discovery/ADWS_Connection_from_Unexpected_Binary-Win.md
 https://github.com/FalconForceTeam/FalconFriday/blob/master/Discovery/ADWS_Connection_from_Unexpected_Binary-Win.md
 https://github.com/FalconForceTeam/SOAPHound
@@ -1077,6 +1079,7 @@ https://github.com/LandGrey/CVE-2018-2894
 https://github.com/lanmaster53/recon-ng/blob/9e907dfe09fce2997f0301d746796408e01a60b7/recon/core/base.py#L92
 https://github.com/last-byte/PersistenceSniper
 https://github.com/lclevy/firepwd
+https://github.com/Lifailon/RSA/blob/rsa/Sources/RSA-1.4.1.ps1#L1468
 https://github.com/Lifka/hacking-resources/blob/c2ae355d381bd0c9f0b32c4ead049f44e5b1573f/cloud-hacking-cheat-sheets.md
 https://github.com/lijiejie/IIS_shortname_Scanner
 https://github.com/lkys37en/Start-ADEnum/blob/5b42c54215fe5f57fc59abc52c20487d15764005/Functions/Start-ADEnum.ps1#L680
@@ -1150,6 +1153,7 @@ https://github.com/Neo23x0/Raccine/blob/20a569fa21625086433dcce8bb2765d0ea08dcb6
 https://github.com/Neo23x0/signature-base/blob/615bf1f6bac3c1bdc417025c40c073e6c2771a76/yara/gen_susp_lnk_files.yar#L19
 https://github.com/Neo23x0/sysmon-config/blob/3f808d9c022c507aae21a9346afba4a59dd533b9/sysmonconfig-export-block.xml#L1326
 https://github.com/netero1010/EDRSilencer
+https://github.com/netero1010/EDRSilencer/blob/0e73a7037ec65c52894d8208e6f605a7da0a34a6/EDRSilencer.c
 https://github.com/netero1010/TrustedPath-UACBypass-BOF
 https://github.com/NetSPI/aws_consoler
 https://github.com/NetSPI/PowerUpSQL
@@ -2321,6 +2325,7 @@ https://medium.com/@logicbomb_1/bugbounty-how-i-was-able-to-download-the-source-
 https://medium.com/@MalFuzzer/one-electron-to-rule-them-all-dc2e9b263daf
 https://medium.com/@malwaredancer/lockergoga-input-arguments-ipc-communication-and-others-bd4e5a7ba80a
 https://medium.com/@markmotig/some-ways-to-dump-lsass-exe-c4a75fdc49bf
+https://medium.com/@msuiche/the-nsa-compromised-swift-network-50ec3000b195
 https://medium.com/@mvelazco/hunting-for-samaccountname-spoofing-cve-2021-42287-and-domain-controller-impersonation-f704513c8a45
 https://medium.com/@networksecurity/rdp-hijacking-how-to-hijack-rds-and-remoteapp-sessions-transparently-to-move-through-an-da2a1e73a5f6
 https://medium.com/@olafhartong/cobalt-strike-remote-threads-detection-206372d11d0f
@@ -2336,6 +2341,7 @@ https://medium.com/@win3zz/inside-the-router-how-i-accessed-industrial-routers-a
 https://medium.com/falconforce/falconfriday-detecting-active-directory-data-collection-0xff21-c22d1a57494c
 https://medium.com/falconforce/falconfriday-detecting-uac-bypasses-0xff16-86c2a9107abf
 https://medium.com/falconforce/falconfriday-direct-system-calls-and-cobalt-strike-bofs-0xff14-741fa8e1bdd6
+https://medium.com/falconforce/soaphound-tool-to-collect-active-directory-data-via-adws-165aca78288c
 https://medium.com/geekculture/text4shell-exploit-walkthrough-ebc02a01f035
 https://medium.com/mitre-engenuity/att-ck-for-containers-now-available-4c2359654bf1
 https://medium.com/palantir/tampering-with-windows-event-tracing-background-offense-and-defense-4be7ac62ac63
@@ -2852,6 +2858,7 @@ https://thedfirreport.com/2023/08/28/html-smuggling-leads-to-domain-wide-ransomw
 https://thedfirreport.com/2023/10/30/netsupport-intrusion-results-in-domain-compromise/
 https://thedfirreport.com/2024/06/10/icedid-brings-screenconnect-and-csharp-streamer-to-alphv-ransomware-deployment/#detections
 https://thedfirreport.com/2024/09/30/nitrogen-campaign-drops-sliver-and-ends-with-blackcat-ransomware/
+https://thedfirreport.com/2025/05/19/another-confluence-bites-the-dust-falling-to-elpaco-team-ransomware/
 https://thehackernews.com/2023/10/experts-warn-of-severe-flaws-affecting.html
 https://thehackernews.com/2024/01/systembc-malwares-c2-server-analysis.html
 https://thehackernews.com/2024/03/github-rolls-out-default-secret.html
@@ -2861,6 +2868,7 @@ https://therecord.media/cisa-warns-of-zoho-server-zero-day-exploited-in-the-wild
 https://therecord.media/revil-ransomware-executes-supply-chain-attack-via-malicious-kaseya-update/
 https://thewover.github.io/Introducing-Donut/
 https://threadreaderapp.com/thread/1533879688141086720.html
+https://threatbook.io/blog/Analysis-of-APT-C-60-Attack-on-South-Korea
 https://threathunterplaybook.com/hunts/windows/170105-LSASSMemoryReadAccess/notebook.html
 https://threathunterplaybook.com/hunts/windows/180719-DLLProcessInjectionCreateRemoteThread/notebook.html
 https://threathunterplaybook.com/hunts/windows/180815-ADObjectAccessReplication/notebook.html
@@ -3653,6 +3661,7 @@ https://www.huntress.com/blog/a-catastrophe-for-control-understanding-the-screen
 https://www.huntress.com/blog/attacking-mssql-servers
 https://www.huntress.com/blog/confluence-to-cerber-exploitation-of-cve-2023-22518-for-ransomware-deployment
 https://www.huntress.com/blog/critical-vulnerabilities-in-papercut-print-management-software
+https://www.huntress.com/blog/fake-browser-updates-lead-to-boinc-volunteer-computing-software
 https://www.huntress.com/blog/moveit-transfer-critical-vulnerability-rapid-response
 https://www.huntress.com/blog/slashandgrab-screen-connect-post-exploitation-in-the-wild-cve-2024-1709-cve-2024-1708
 https://www.huntress.com/blog/threat-advisory-oh-no-cleo-cleo-software-actively-being-exploited-in-the-wild
@@ -3971,6 +3980,7 @@ https://www.thestack.technology/security-experts-call-for-incident-response-exer
 https://www.trellix.com/en-sg/about/newsroom/stories/threat-labs/lockergoga-ransomware-family-used-in-targeted-attacks.html
 https://www.trellix.com/en-us/about/newsroom/stories/research/beyond-file-search-a-novel-method.html
 https://www.trendmicro.com/content/dam/trendmicro/global/en/research/22/h/ransomware-actor-abuses-genshin-impact-anti-cheat-driver-to-kill-antivirus/Genshin%20Impact%20Figure%2010.jpg
+https://www.trendmicro.com/content/dam/trendmicro/global/en/research/24/b/lockbit-attempts-to-stay-afloat-with-a-new-version/technical-appendix-lockbit-ng-dev-analysis.pdf
 https://www.trendmicro.com/en_id/research/22/e/uncovering-a-kingminer-botnet-attack-using-trend-micro-managed-x.html
 https://www.trendmicro.com/en_no/research/24/b/cve202421412-water-hydra-targets-traders-with-windows-defender-s.html
 https://www.trendmicro.com/en_ph/research/20/k/new-macos-backdoor-connected-to-oceanlotus-surfaces.html
