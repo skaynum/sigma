@@ -55,6 +55,7 @@ https://admx.help/?Category=Office2016&Policy=office16.Office.Microsoft.Policies
 https://admx.help/?Category=Windows_10_2016&Policy=Microsoft.Policies.ControlPanelDisplay::CPL_Personalization_NoDesktopBackgroundUI
 https://admx.help/?Category=Windows_10_2016&Policy=Microsoft.Policies.InternetExplorer::IZ_IncludeUnspecifiedLocalSites
 https://admx.help/?Category=Windows_10_2016&Policy=Microsoft.Policies.InternetExplorer::IZ_ProxyByPass
+https://admx.help/?Category=Windows_10_2016&Policy=Microsoft.Policies.InternetExplorer::IZ_UNCAsIntranet
 https://admx.help/?Category=Windows_10_2016&Policy=Microsoft.Policies.PowerShell::EnableScripts
 https://admx.help/?Category=Windows_10_2016&Policy=Microsoft.Policies.WindowsDesktop::Wallpaper
 https://admx.help/?Category=Windows_7_2008R2&Policy=Microsoft.Policies.InternetCommunicationManagement::EventViewer_DisableLinks
@@ -410,6 +411,7 @@ https://devco.re/blog/2024/08/23/streaming-vulnerabilities-from-windows-kernel-p
 https://developer.apple.com/library/archive/documentation/MacOSX/Conceptual/BPSystemStartup/Chapters/StartupItems.html
 https://developer.broadcom.com/xapis/esxcli-command-reference/7.0.0/namespace/esxcli_network.html
 https://developer.broadcom.com/xapis/esxcli-command-reference/7.0.0/namespace/esxcli_storage.html
+https://developer.broadcom.com/xapis/esxcli-command-reference/7.0.0/namespace/esxcli_system.html
 https://developer.broadcom.com/xapis/esxcli-command-reference/7.0.0/namespace/esxcli_vsan.html
 https://developer.okta.com/docs/reference/api/event-types/
 https://developer.okta.com/docs/reference/api/system-log/
@@ -474,6 +476,7 @@ https://docs.aws.amazon.com/STS/latest/APIReference/API_GetSessionToken.html
 https://docs.aws.amazon.com/vm-import/latest/userguide/vmexport.html#export-instance
 https://docs.djangoproject.com/en/1.11/ref/exceptions/
 https://docs.djangoproject.com/en/1.11/topics/logging/#django-security
+https://docs.fortinet.com/document/fortigate/7.6.4/cli-reference/306021697/config-firewall-address
 https://docs.github.com/en/actions/hosting-your-own-runners/about-self-hosted-runners#about-self-hosted-runners
 https://docs.github.com/en/code-security/dependabot/dependabot-alerts/about-dependabot-alerts
 https://docs.github.com/en/enterprise-cloud@latest/admin/monitoring-activity-in-your-enterprise/reviewing-audit-logs-for-your-enterprise/audit-log-events-for-your-enterprise
@@ -682,6 +685,7 @@ https://docs.microsoft.com/fr-fr/windows-server/administration/windows-commands/
 https://docs.microsoft.com/pt-br/windows/win32/secauthz/sid-strings
 https://docs.nginx.com/nginx/admin-guide/monitoring/debugging/#enabling-core-dumps
 https://docs.paloaltonetworks.com/cortex/cortex-xdr/cortex-xdr-analytics-alert-reference/cortex-xdr-analytics-alert-reference/scrcons-exe-rare-child-process.html
+https://docs.python.org/2/library/simplehttpserver.html
 https://docs.python.org/3/library/site.html
 https://docs.python.org/3/using/cmdline.html#cmdoption-c
 https://docs.spring.io/spring-security/site/docs/current/api/overview-tree.html
@@ -1993,6 +1997,7 @@ https://learn.microsoft.com/en-us/powershell/module/storage/mount-diskimage?view
 https://learn.microsoft.com/en-us/powershell/scripting/developer/module/understanding-a-windows-powershell-module?view=powershell-7.3
 https://learn.microsoft.com/en-us/previous-versions/dotnet/framework/data/wcf/generating-the-data-service-client-library-wcf-data-services
 https://learn.microsoft.com/en-us/previous-versions/dotnet/framework/data/wcf/how-to-add-a-data-service-reference-wcf-data-services
+https://learn.microsoft.com/en-us/previous-versions/dotnet/framework/data/wcf/wcf-data-service-client-utility-datasvcutil-exe
 https://learn.microsoft.com/en-us/previous-versions/dotnet/framework/data/xml/xslt/xslt-stylesheet-scripting-using-msxsl-script
 https://learn.microsoft.com/en-us/previous-versions/office/troubleshoot/office-developer/automate-word-create-file-using-visual-basic
 https://learn.microsoft.com/en-us/previous-versions/windows/desktop/legacy/aa394225(v=vs.85)
@@ -2135,6 +2140,7 @@ https://learn.microsoft.com/en-us/windows/win32/wmisdk/mofcomp
 https://learn.microsoft.com/en-us/windows/wsl/install-on-server
 https://learn.microsoft.com/pt-br/windows/win32/secauthz/sid-strings
 https://liberty-shell.com/sec/2020/02/25/shim-persistence/
+https://linux-audit.com/linux-aslr-and-kernelrandomize_va_space-setting/
 https://linux-audit.com/systemd/faq/what-is-the-difference-between-systemctl-disable-and-systemctl-mask/
 https://linux.die.net/man/1/arecord
 https://linux.die.net/man/1/bash
@@ -2339,6 +2345,7 @@ https://medium.com/falconforce/falconfriday-direct-system-calls-and-cobalt-strik
 https://medium.com/geekculture/text4shell-exploit-walkthrough-ebc02a01f035
 https://medium.com/mitre-engenuity/att-ck-for-containers-now-available-4c2359654bf1
 https://medium.com/palantir/tampering-with-windows-event-tracing-background-offense-and-defense-4be7ac62ac63
+https://medium.com/r3d-buck3t/red-teaming-in-cloud-leverage-azure-frontdoor-cdn-for-c2-redirectors-79dd9ca98178
 https://medium.com/s2wblog/analysis-of-destructive-malware-whispergate-targeting-ukraine-9d5d158f19f3
 https://medium.com/system-weakness/detecting-as-rep-roasting-attacks-b5b3965f9714
 https://medium.com/tenable-techblog/bypassing-authentication-on-arcadyan-routers-with-cve-2021-20090-and-rooting-some-buffalo-ea1dd30980c2
@@ -3727,6 +3734,7 @@ https://www.logpoint.com/en/blog/shenanigans-of-scheduled-tasks/
 https://www.loobins.io/binaries/hdiutil/
 https://www.loobins.io/binaries/sysctl/#
 https://www.loobins.io/binaries/tmutil/
+https://www.loobins.io/binaries/xattr/
 https://www.lunasec.io/docs/blog/log4j-zero-day/
 https://www.makeuseof.com/how-to-install-and-use-doas/
 https://www.malwarebytes.com/blog/detections/pum-optional-nodispcpl
@@ -3903,6 +3911,7 @@ https://www.sans.org/cyber-security-summit/archives
 https://www.sans.org/cyber-security-summit/archives/file/summit-archive-1492186586.pdf
 https://www.sans.org/webcasts/119395
 https://www.sans.org/webcasts/tech-tuesday-workshop-cobalt-strike-detection-log-analysis-119395
+https://www.scpx.com.au/2025/11/16/decades-old-finger-protocol-abused-in-clickfix-malware-attacks/
 https://www.scythe.io/library/threat-emulation-qakbot
 https://www.secuinfra.com/en/techtalk/hide-your-hypervisor-analysis-of-esxiargs-ransomware/
 https://www.secura.com/blog/zero-logon
